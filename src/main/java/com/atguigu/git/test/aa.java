@@ -12,6 +12,8 @@ public class aa {
         System.out.println("hot-fix test");
 
         System.out.println("aaa");
+        System.out.println("aaa");
+        System.out.println("aaa");
 
     }
 }
